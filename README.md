@@ -1,26 +1,10 @@
-<!-- 花瓣 GIF 作为标题区背景（文字叠在上方）；GitHub 不支持完整 CSS，用 table background 实现 -->
+<!-- GitHub 不支持 CSS 背景层叠，用「带文字的横幅 GIF」实现花瓣 + 标题一体显示 -->
 <div align="center">
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center"
-        background="https://raw.githubusercontent.com/tao1122334/tao1122334/main/assets/petals-bg.gif"
-        style="background-size: cover; background-repeat: no-repeat; border-radius: 16px; padding: 56px 28px;">
-      <h1>Hi, I'm Wenhui Tao (陶文晖) 👋</h1>
-      <p>
-        <strong>HCI</strong> · M.S. @ <a href="https://www.sustech.edu.cn/">SUSTech</a> · Shenzhen<br/>
-        <strong>CHI'25</strong> · AI Agent · Cursor vibe coding
-      </p>
-      <p>
-        <a href="mailto:wenhui9703@gmail.com">
-          <img src="https://img.shields.io/badge/Email-wenhui9703@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="email"/>
-        </a>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Location-Shenzhen-FF69B4?style=flat" alt="location"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/tao1122334/tao1122334/main/assets/header-hero.gif" width="100%" alt="header" />
+
+[![Email](https://img.shields.io/badge/Email-wenhui9703@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:wenhui9703@gmail.com)
+<img src="https://img.shields.io/badge/Location-Shenzhen-FF69B4?style=flat" alt="location"/>
 
 </div>
 
