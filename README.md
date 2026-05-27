@@ -46,22 +46,9 @@
 
 - **Research**: Human–Computer Interaction, **AI agents**, LLM-assisted workflows
 - **Papers (accepted)**: [CalliSense](https://doi.org/10.1145/3706598.3714176) (CHI'25) · **CalliSenseAR** (UIST'25)
-- **Teaching tech**: Course OJ systems (Digital Logic & Computer Organization) · **EduAI** smart homework platform
-- **Build with**: Cursor · Vue · Django · Android · AR (Vision Pro / ARKit)
-
-## 🛠 Selected Projects
-
-| Project | Description |
-|---------|-------------|
-| [AOVAandroid](https://github.com/tao1122334/AOVAandroid) | AI note-taking · Android + BLE |
-| [aovaBackend](https://github.com/tao1122334/aovaBackend) | Django · LLM / Whisper pipeline |
-| [COP_front](https://github.com/tao1122334/COP_front) | Computer Organization OJ · Vue |
-| [EduAI](https://github.com/zhaoyao0542/EduAI/tree/student-tao) | AI homework · [student](https://github.com/zhaoyao0542/EduAI/tree/student-tao) / [teacher](https://github.com/zhaoyao0542/EduAI/tree/teacher-tao) / [backend](https://github.com/zhaoyao0542/EduAI/tree/backend-tao) |
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tao1122334&show_icons=true&theme=default&hide_border=true)
+- **Interests**: Educational technology · intelligent tutoring · AI-assisted development (**Cursor**)
+- **Build with**: Vue · Django · Android · AR (Vision Pro / ARKit)
 
 ---
 
-<sub>Profile README · 花瓣动效借鉴课程 OJ 登录页视觉风格</sub>
+<sub>Profile README</sub>
