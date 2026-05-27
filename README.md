@@ -47,7 +47,7 @@
 - **Research**: Human–Computer Interaction, **AI agents**, LLM-assisted workflows
 - **Papers (accepted)**: [CalliSense](https://doi.org/10.1145/3706598.3714176) (CHI'25)
 - **Interests**: Educational technology · intelligent tutoring · AI-assisted development (**Cursor**)
-- **Build with**: Vue · Django · Android · interactive systems
+- **Build with**: Vue · Django · Android · AR (Vision Pro / ARKit)
 
 ---
 
