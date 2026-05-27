@@ -3,8 +3,8 @@
 
 <img src="https://raw.githubusercontent.com/tao1122334/tao1122334/main/assets/header-hero.gif" width="100%" alt="header" />
 
-[![Email](https://img.shields.io/badge/Email-wenhui9703@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:wenhui9703@gmail.com)
-<img src="https://img.shields.io/badge/Location-Shenzhen-FF69B4?style=flat" alt="location"/>
+[![Email](https://img.shields.io/badge/Email-wenhui9703@gmail.com-0ea5e9?style=flat&logo=gmail&logoColor=white)](mailto:wenhui9703@gmail.com)
+<img src="https://img.shields.io/badge/Location-Shenzhen-1e293b?style=flat&labelColor=0f172a&color=38bdf8" alt="location"/>
 
 </div>
 
