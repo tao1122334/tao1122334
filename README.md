@@ -1,4 +1,4 @@
-<!-- GitHub 不支持 CSS 背景层叠，用「带文字的横幅 GIF」实现花瓣 + 标题一体显示 -->
+<!-- 深色科技风横幅 GIF（下落光迹 + 标题） -->
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/tao1122334/tao1122334/main/assets/header-hero.gif" width="100%" alt="header" />
